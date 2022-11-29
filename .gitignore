@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 General/both_tables.csv
+General/H1B_Visas_2019-2020.csv
+General/H1B_Visas_2021-2022.csv
